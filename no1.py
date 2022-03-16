@@ -1,3 +1,7 @@
+# Desta Ari Alfananda
+# 20051397008
+# MI 2020 B
+
 import math
 from abc import ABC, abstractmethod
 class persegi(ABC):
