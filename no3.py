@@ -2,7 +2,6 @@
 # 20051397008
 # MI 2020 B
 
-
 import numpy as np
 
 class matriks:
