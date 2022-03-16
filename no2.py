@@ -1,3 +1,7 @@
+# Desta Ari Alfananda
+# 20051397008
+# MI 2020 B
+
 class tabung:
     def __init__(self, jari, tinggi):
         self.jari = jari
